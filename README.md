@@ -1,4 +1,5 @@
-# PF-Lab-03-26K-0564
+# Lab 03 - Task # 1: GitHub Repository and README
+
 PF Lab 03 - C Programming tasks, exercises, and Markdown README submission.
 
 **Name:** Sahal Ahmed  
