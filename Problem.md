@@ -1,4 +1,4 @@
-# Lab 03 — Writing Problems in Pseudocode and Using Branch, Commit and Pull Request. 
+# Lab 03 - Task # 2:  Writing Problems in Pseudocode and Using Branch, Commit and Pull Request. 
 
 ## Problem 1: Display Student Information Using Different Data Types
 ```
