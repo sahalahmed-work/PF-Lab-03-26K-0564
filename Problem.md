@@ -25,15 +25,10 @@ READ character USING getchar()
 Print "You entered: "  
 Write character USING putchar()
 
-## Display a floating-point value using different precision settings
+## Problem 3: Display a floating-point value using different precision settings
 
 DEFINE FLOAT pi = 3.1415926535
 
 PRINT "Default value of pi: ", pi
 PRINT "Value of pi upto 3 dp: ", FORMAT(pi,%.3f)
 PRINT "Value of pi upto 5 dp: ", FORMAT(pi,%.5f)
-
-
-
-
-Problem 2: Read and Display a Character Using getchar() and putchar()
