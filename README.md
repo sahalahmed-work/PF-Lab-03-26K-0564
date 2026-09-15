@@ -47,6 +47,8 @@ Input/Output operations using `printf()` and `scanf()`
 - [x] Task 9 — Formatted Student Report
 - [x] Task 10 — C Output Formatting Challenge
 
+----
+
 ## Sample Outputs of C Program
 ### Task 4
 
@@ -75,4 +77,6 @@ Input/Output operations using `printf()` and `scanf()`
 ### Task 10 
 
 <img width="195" height="280" alt="image" src="https://github.com/user-attachments/assets/1966d4e0-0758-4e08-b8ab-7b3c64fd909d" />
+
+
 
