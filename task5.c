@@ -1,5 +1,47 @@
 //Lab 3 Task 5: Data Type and Format Specifier Demonstration
 
+// (a) Write the pseudocode 
+
+// DECLARE num_int: INTEGER
+// DECLARE num_uint: INTEGER
+// DECLARE num_float: FLOAT
+// DECLARE num_double: FLOAT
+// DECLARE ch: CHARACTER
+// DECLARE num_long: INTEGER
+//
+// INPUT("Enter an Integer (Int): ", num_int)
+// INPUT("Enter an Unsigned integer (unsigned int): ", num_uint)
+// INPUT("Enter a Float value: ", num_float)
+// INPUT("Enter a Double value: ", num_double)
+// INPUT("Enter a Character(char): ", ch)
+// INPUT("Enter a Long integer (long int): ", num_long)
+// 
+// OUTPUT("===========================================")
+// OUTPUT("           Data Type Demonstration")
+// OUTPUT("===========================================")
+
+// OUTPUT("--- Integer Representations (num_int) ---")
+// OUTPUT("Decimal                 : ", num_int)
+// OUTPUT("Octal                   : ", num_int in octal format)
+// OUTPUT("Hexadecimal (lowercase) : ", num_int in lowercase hexadecimal format)
+// OUTPUT("Hexadecimal (uppercase) : ", num_int in uppercase hexadecimal format)
+// 
+// OUTPUT("--- Floating-Point Representations (num_float) ---")
+// OUTPUT("Standard (%f)        : ", num_float)
+// OUTPUT("Exponential (%e)     : ", num_float in exponential format)
+// OUTPUT("Shortest (%g)        : ", num_float in shortest representation)
+// 
+// OUTPUT("--- Other Data Types ---")
+// OUTPUT("Unsigned Int           : ", num_uint)
+// OUTPUT("Double                 : ", num_double)
+// OUTPUT("Character              : ", ch)
+// OUTPUT("Long Integer           : ", num_long)
+// 
+// OUTPUT("===========================================")
+ 
+
+// (b) Write the C program
+
 #include <stdio.h>
 
  int main() { 
@@ -57,3 +99,5 @@
 
     return 0;
 }
+
+// Output Screenshot Link: https://github.com/user-attachments/assets/3e855c61-c096-48b4-add2-46326ec98854
