@@ -1,4 +1,36 @@
-/LAB 3 Task 9: Formatted Student Report
+//Lab 3 Task 9: Formatted Student Report
+
+// (a) Write the pseudocode
+
+// DECLARE Std_name: STRING
+// DECLARE RollNo: INTEGER
+// DECLARE Section: CHARACTER
+// DECLARE Age: INTEGER
+// DECLARE CGPA: FLOAT
+// DECLARE Height: FLOAT
+//
+// INPUT("Enter the student's name: ", Std_name)
+// INPUT("Enter Roll Number: ", RollNo)
+// INPUT("Enter your Section: ", Section)
+// INPUT("Enter your age: ", Age)
+// INPUT("Enter your CGPA: ", CGPA)
+// INPUT("Enter your Height: ", Height)
+//
+// OUTPUT("------------------------------------------------")
+// OUTPUT("  \t STUDENT REPORT")
+// OUTPUT("------------------------------------------------")
+//
+// OUTPUT("Name         : ", Std_name)
+// OUTPUT("Roll Number  : ", RollNo)
+// OUTPUT("Section      : ", Section)
+// OUTPUT("Age          : ", Age)
+// OUTPUT("CGPA         : ", CGPA)
+// OUTPUT("Height       : ", Height)
+
+//OUTPUT("------------------------------------------------")
+
+
+// (b) Write the C program
 
 #include <stdio.h>
 int main() {
@@ -43,7 +75,6 @@ int main() {
     printf("------------------------------------------------\n");
 
     return 0;
-
-
-
 }
+
+// Output Screenshot Link: https://github.com/user-attachments/assets/11f355be-cc06-4707-a30c-f687b62fa5f3

@@ -1,5 +1,35 @@
 // Lab 3 Task 4: Student Information Program
 
+// (a) Write the pseudocode
+
+// DECLARE name: STRING
+// DECLARE RollNo: INTEGER
+// DECLARE Age: INTEGER
+// DECLARE Height: FLOAT
+// DECLARE GPA: FLOAT
+// DECLARE Section: CHARACTER
+//
+// INPUT("Enter name: ", name)
+// INPUT("Enter Roll Number: ", RollNo)
+// INPUT("Enter Age: ", Age)
+// INPUT("Enter Height in metres: ", Height)
+// INPUT("Enter GPA: ", GPA)
+// INPUT("Enter Section: ", Section)
+//
+// OUTPUT("===========================================")
+// OUTPUT("           Student Information")
+// OUTPUT("===========================================")
+// OUTPUT("Name         : ", name)
+// OUTPUT("Roll No.     : ", RollNo)
+// OUTPUT("Age          : ", Age)
+// OUTPUT("Height       : ", Height, " metres")
+// OUTPUT("GPA          : ", GPA)
+// OUTPUT("Section      : ", Section)
+// OUTPUT("===========================================")
+
+
+// (b) Write the C program
+
 #include <stdio.h>
 
 
@@ -44,3 +74,6 @@ int main() {
     printf("===========================================\n");
     return 0;
 }
+
+// Output Screenshot Link: https://github.com/user-attachments/assets/0e2b9cc6-7aad-412d-a1c4-4f1179f45840
+

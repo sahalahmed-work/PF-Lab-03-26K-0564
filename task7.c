@@ -1,5 +1,27 @@
 // Lab 3 Task 7: Character Input and Output 
 
+// (a) Write the pseudocode
+
+// DECLARE ch_1: CHAR
+// DECLARE ch_2: CHAR
+// DECLARE ch_3: CHAR
+//
+// INPUT("Enter First Character: ", ch_1)
+// INPUT("Enter Second Character: ", ch_2)
+// INPUT("Enter Third Character: ", ch_3)
+//
+// OUTPUT("------------------------------------")
+
+// OUTPUT(" Characters Entered:")
+// OUTPUT("First Character: ", ch_1)
+// OUTPUT("Second Character: ", ch_2)
+// OUTPUT("Third Character: ", ch_3)
+
+// OUTPUT("------------------------------------")
+
+
+// (b) Write the C program
+
 #include <stdio.h>
 int main() {
 
@@ -37,3 +59,5 @@ int main() {
 
     return 0;
 }
+
+// Output Screenshot Link: https://github.com/user-attachments/assets/10c03111-3134-4f74-916c-15789e087bec

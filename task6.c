@@ -1,5 +1,34 @@
 //Lab 3 Task 6: Precision Comparison
 
+// (a) Write the pseudocode
+
+// DECLARE float_num: FLOAT
+// DECLARE double_num: FLOAT
+// 
+// INPUT("Enter a float value: ", float_num)
+// INPUT("Enter a double value: ", double_num)
+// 
+// OUTPUT("===========================================")
+// OUTPUT("           Precision Comparison")
+// OUTPUT("===========================================")
+// 
+// OUTPUT("Float Value:")
+// OUTPUT("Default      : ", float_num)
+// OUTPUT("2 decimal places : ", float_num with 2 decimal places)
+// OUTPUT("4 decimal places : ", float_num with 4 decimal places)
+// OUTPUT("6 decimal places : ", float_num with 6 decimal places)
+// 
+// OUTPUT("Double Value:")
+// OUTPUT("Default      : ", double_num)
+// OUTPUT("2 decimal places : ", double_num with 2 decimal places)
+// OUTPUT("4 decimal places : ", double_num with 4 decimal places)
+// OUTPUT("6 decimal places : ", double_num with 6 decimal places)
+// 
+// OUTPUT("===========================================")
+
+
+// (b) Write the C program
+
 #include <stdio.h>
 int main() {
     float float_num;
@@ -29,6 +58,6 @@ int main() {
     printf("===========================================\n");
 
     return 0;
-
-
 }
+
+//Output Screenshot Link: https://github.com/user-attachments/assets/a0354064-0f2a-426e-ab8c-241c26c36206
