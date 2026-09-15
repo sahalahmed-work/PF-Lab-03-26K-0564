@@ -1,5 +1,31 @@
 // Lab 3 Task 8: Personal Profile Using String I/O
 
+// (a) Write the pseudocode
+
+// DECLARE full_name: STRING
+// DECLARE City: STRING
+// DECLARE University: STRING
+// DECLARE Department: STRING
+//
+// INPUT("Enter your full name: ", full_name)
+// INPUT("Enter your city: ", City)
+// INPUT("Enter your university name: ", University)
+// INPUT("Enter your department: ", Department)
+//
+// OUTPUT("===========================================")
+// OUTPUT("           STUDENT PROFILE")
+// OUTPUT("===========================================")
+//
+// OUTPUT("Full Name   : ", full_name)
+// OUTPUT("City        : ", City)
+// OUTPUT("University  : ", University)
+// OUTPUT("Department  : ", Department)
+//
+// OUTPUT("===========================================")
+
+
+// (b) Write the C program
+
 # include <stdio.h>
 #include <string.h>
 int main() {
@@ -31,5 +57,6 @@ int main() {
     printf("===========================================\n");
 
     return 0;
-
 }
+
+// Output Screenshot Link: https://github.com/user-attachments/assets/829987ca-2e40-4257-838e-d1cf21d5f857
