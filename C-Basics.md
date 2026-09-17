@@ -1,6 +1,6 @@
 # Lab 03 - Task # 3: MARKDOWN DOCUMENTATION  
 
-## TABLE OF VARIOUS DATA TYPES
+## 1. TABLE OF VARIOUS DATA TYPES
 
 | Data Type | Size | Description |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@
 
 ----
 
-## INPUT/OUTPUT FUNCTIONS
+## 3. INPUT/OUTPUT FUNCTIONS
 
 * **`scanf()`**: Reads and store formatted input from the standard input.
 * **`printf()`**: Writes and prints formatted output to the standard output.
@@ -42,7 +42,7 @@
 
 ----
 
-## ESCAPE SEQUENCES 
+## 4. ESCAPE SEQUENCES 
 
 Below are five common escape sequences used in C:
 
@@ -54,7 +54,7 @@ Below are five common escape sequences used in C:
    
 ----
 
-## PRECISION
+## 5. PRECISION
 
 Precision in c is used to control the decimal places in floating-point numbers.
 
